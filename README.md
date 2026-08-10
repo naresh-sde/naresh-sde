@@ -1,171 +1,106 @@
 # Naresh Nagula
 
-### Backend Engineer | Java | Spring Boot | Microservices | Kafka
+### Backend Engineer · Java · Spring Boot · Microservices · Kafka
 
-📍 Hyderabad, India  
-📧 nareshn.sde@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nareshn-dev)
+Building backend systems with a focus on **scalability, security, event-driven architecture, and reliable delivery**.
 
----
+**4 years of experience** across Java backend development, enterprise applications, microservices, security, distributed data systems, and CI/CD.
 
-## About Me
-
-Backend Engineer with **4 years of professional experience** building secure, scalable, and high-performance enterprise applications.
-
-My primary expertise is in **Java, Spring Boot, Spring Security, Hibernate/JPA, RESTful Microservices, Apache Kafka, and relational and distributed databases**.
-
-I have worked on enterprise platforms involving **event-driven architectures, security automation, distributed data processing, API performance optimization, CI/CD pipelines, and regulated application environments**.
-
-Currently, I work on cloud-native, event-driven data platforms using **Java, Spring Boot, Kafka, Elasticsearch, Redis, Cassandra, Docker, Jenkins, and GitLab CI/CD**.
+[LinkedIn](https://linkedin.com/in/nareshn-dev) · [Email](mailto:nareshn.sde@gmail.com)
 
 ---
 
-## Technical Stack
+## What I Build
 
-### Backend
-`Java` `Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Microservices`
+- Scalable **Java / Spring Boot microservices**
+- **Event-driven systems** with Apache Kafka
+- Secure APIs with **Spring Security, JWT, RBAC & SAML SSO**
+- Data-intensive services using **PostgreSQL, Cassandra, Redis & Elasticsearch**
+- Production delivery pipelines with **Jenkins, GitLab CI/CD & Docker**
+- Backend systems focused on **performance, reliability, and maintainability**
 
-### Messaging & Distributed Systems
-`Apache Kafka` `Event-Driven Architecture` `Redis` `Elasticsearch` `Cassandra`
+---
 
-### Databases
-`PostgreSQL` `MySQL` `Cassandra` `JDBC` `Query Optimization` `Database Indexing`
+## Stack
 
-### Security
-`JWT` `RBAC` `SAML SSO` `Spring Security`
+**Languages**  
+`Java` `SQL`
 
-### DevOps & Engineering
-`Docker` `Jenkins` `GitLab CI/CD` `Git` `Maven` `Gradle` `Linux` `NGINX` `Apache Tomcat`
+**Backend**  
+`Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `REST` `Microservices`
 
-### Code Quality & Security
-`SonarQube` `Fortify` `OWASP Dependency Check` `WebInspect`
+**Distributed Systems**  
+`Kafka` `Redis` `Elasticsearch` `Cassandra`
 
-### Engineering Practices
-`Agile` `Scrum` `CI/CD` `Code Reviews` `API Versioning` `DTO Mapping` `Exception Handling` `Caching` `Multithreading` `Design Patterns`
+**Databases**  
+`PostgreSQL` `MySQL`
+
+**DevOps / Platform**  
+`Docker` `Jenkins` `GitLab CI/CD` `Maven` `Gradle` `Linux` `NGINX` `Tomcat`
+
+**Security / Quality**  
+`JWT` `RBAC` `SAML SSO` `SonarQube` `Fortify` `OWASP`
+
+---
+
+## Selected Work
+
+### Java & Spring Boot
+Backend services and enterprise applications built around REST APIs, layered architecture, JPA/Hibernate, security, and database optimization.
+
+### Event-Driven Systems
+Kafka-based producers, consumers, and asynchronous processing patterns for distributed data pipelines and cross-region workloads.
+
+### Security Engineering
+Authentication, authorization, SSO, and security automation using Spring Security, JWT, RBAC, SAML, and enterprise security tooling.
+
+### Data & Performance
+Caching, search, and database optimization using Redis, Elasticsearch, Cassandra, PostgreSQL, and Hibernate.
 
 ---
 
 ## Professional Experience
 
-### Software Engineer (SDE-1) — Payoda Technologies
-**Hyderabad · Nov 2025 – Present**
+**Software Engineer (SDE-1) — Payoda Technologies**  
+`Java` `Spring Boot` `Kafka` `Elasticsearch` `Redis` `Cassandra` `Docker` `CI/CD`
 
-Working on cloud-native, event-driven data platforms using:
+Working on cloud-native, event-driven data platforms and high-throughput Java microservices.
 
-`Java` `Spring Boot` `Kafka` `Elasticsearch` `Redis` `Cassandra` `Docker` `Jenkins` `GitLab CI/CD`
+**Previously — System Engineer, Tata Consultancy Services**  
+`Java` `Spring Boot` `Spring Security` `Hibernate` `PostgreSQL` `JWT` `RBAC` `SAML SSO`
 
-- Developed **15+ high-throughput Java microservices** exposing asynchronous REST APIs.
-- Designed **10+ Kafka producers and consumers** for event-driven data pipelines and cross-region disaster-recovery replication.
-- Built Elasticsearch indexing and query layers across multiple datasets.
-- Tuned Cassandra schemas for write-heavy workloads across multiple regions.
-- Implemented Redis caching across API endpoints to reduce repeat database access.
-- Delivered production features through Jenkins, Docker, and GitLab CI/CD pipelines.
-
-### System Engineer — Tata Consultancy Services
-**Bhubaneswar, Odisha · Oct 2022 – Nov 2025**
-
-Worked on enterprise Java backend systems and security-focused applications using:
-
-`Java` `Spring Boot` `Spring Security` `Hibernate` `PostgreSQL` `JWT` `RBAC` `SAML SSO` `Jenkins`
-
-- Architected Spring Boot backend services using layered Controller, Service, and Repository architecture.
-- Developed **25+ versioned REST APIs** with DTO mapping and centralized exception handling.
-- Implemented **JWT authentication and RBAC** across enterprise APIs.
-- Improved API performance through Spring caching, JPA query tuning, and PostgreSQL indexing.
-- Deployed microservices using **Apache Tomcat behind NGINX**.
-- Managed CI/CD workflows using Jenkins and GitLab.
-- Integrated **SonarQube, Fortify, OWASP Dependency Check, and WebInspect** into security workflows.
-- Developed Java utilities for OSS license and compliance reporting.
-- Automated processing of **1000+ OSS audit files** for structured compliance reporting.
+Built enterprise backend systems, security solutions, and CI/CD automation for regulated environments.
 
 ---
 
-## Security & DevSecOps
+## Engineering Highlights
 
-Hands-on experience integrating security into enterprise application development and delivery pipelines.
-
-**Application Security**
-
-`Spring Security` · `JWT` · `RBAC` · `SAML SSO`
-
-**Security & Quality Tooling**
-
-`Jenkins` → `SonarQube` → `Fortify` → `OWASP Dependency Check` → `WebInspect`
-
-Areas of experience include:
-
-- Secure API development
-- Authentication and authorization
-- SSO integration
-- Dependency and vulnerability scanning
-- Security pipeline automation
-- OSS compliance
-- False-positive analysis
-- Audit trail logging
-
----
-
-## Performance & Scalability
-
-| Area | Experience / Impact |
-|---|---:|
-| Java Microservices | 15+ services |
-| REST APIs | 25+ versioned APIs |
-| Kafka | 10+ producers & consumers |
-| Elasticsearch | 50% search response improvement |
-| Cassandra | 35% query latency reduction |
-| Redis | 40% reduction in repeat-read latency |
-| PostgreSQL/JPA | 30% API response improvement |
-| OSS Compliance | 40% reduction in manual audit effort |
-
----
-
-## Engineering Interests
-
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- Backend Performance
-- Application Security
-- DevSecOps
-- Database Optimization
-- Caching
-- Search & Distributed Data Systems
-- Reliable CI/CD
+- **15+** Java microservices
+- **25+** versioned REST APIs
+- **10+** Kafka producers and consumers
+- **50%** improvement in Elasticsearch search response time
+- **35%** reduction in Cassandra query latency
+- **40%** reduction in repeat-read latency through Redis caching
+- **30%** improvement in API response time through caching, JPA, and database optimization
 
 ---
 
 ## Recognition
 
-- **Spotlight Award** — Recognized by TCS leadership for innovative Java backend tooling for OSS compliance workflows.
-- **Client Appreciation Award** — Recognized for successfully migrating enterprise Spring Boot applications to **Spring Boot 3.4.3** with zero critical production defects.
-- **Consistent Performer Award** — Recognized across multiple review cycles for quality delivery, ownership, and consistent performance.
+- **Spotlight Award** — Java backend tooling and OSS compliance automation
+- **Client Appreciation Award** — Spring Boot 3.4.3 migration with zero critical production defects
+- **Consistent Performer Award** — Recognized for delivery, code quality, and ownership
 
 ---
 
-## Education
+## Currently Exploring
 
-**Bachelor of Technology**  
-CMR Institute of Technology, Hyderabad · 2019–2022
-
-**Diploma in Engineering**  
-VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad · 2016–2019
+`Distributed Systems` · `Event-Driven Architecture` · `Backend Performance` · `Application Security` · `Cloud-Native Java`
 
 ---
 
 ## Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/naresh-jdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nareshn.sde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/nareshn-dev) · [Email](mailto:nareshn.sde@gmail.com)
 
----
-
-### `Java` · `Spring Boot` · `Microservices` · `Kafka` · `Security` · `Distributed Systems`
-
-*Building reliable, secure, and scalable backend systems.*
+> Building reliable backend systems with Java and Spring.
