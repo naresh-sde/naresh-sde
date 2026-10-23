@@ -98,29 +98,7 @@ I work on **event-driven, high-availability systems** and care about the parts u
 
 ---
 
-## Featured Projects
-
-### Java & Spring Boot Learning Series
-
-Hands-on repositories that document the backend concepts I use daily — built from fundamentals up.
-
-| Repository | What it covers |
-|---|---|
-| **[java-core-concepts](https://github.com/naresh-sde/java-core-concepts)** | OOP, collections, exceptions, generics, and core Java language concepts |
-| **[java-8-features](https://github.com/naresh-sde/java-8-features)** | Lambdas, streams, Optional, functional interfaces, date/time API |
-| **[java-multithreading](https://github.com/naresh-sde/java-multithreading)** | Threads, synchronization, executors, `CompletableFuture`, concurrency |
-| **[java-collections-framework](https://github.com/naresh-sde/java-collections-framework)** | List, Set, Map, Queue implementations and when to use each |
-| **[java-functional-programming](https://github.com/naresh-sde/java-functional-programming)** | Pure functions, immutability, higher-order functions, streams |
-| **[java-design-patterns](https://github.com/naresh-sde/java-design-patterns)** | Classic design patterns with practical Java examples |
-| **[java-17-features](https://github.com/naresh-sde/java-17-features)** | Records, sealed classes, pattern matching, text blocks |
-| **[java-21-features](https://github.com/naresh-sde/java-21-features)** | Virtual threads, sequenced collections, pattern matching updates |
-| **[spring-boot-introduction](https://github.com/naresh-sde/spring-boot-introduction)** | Layered Spring Boot app, config binding, validation, error handling |
-| **[spring-boot-dependency-injection](https://github.com/naresh-sde/spring-boot-dependency-injection)** | Injection styles, qualifiers, `@Primary`, scopes, `@Lazy`, lifecycle |
-| **[spring-boot-rest-api](https://github.com/naresh-sde/spring-boot-rest-api)** | Production-style REST CRUD, pagination, validation, `ProblemDetail` |
-
-> More Spring Boot and Spring Cloud repositories (JPA, security, testing, caching, config, gateway, Kafka) are being added.
-
-### Backend Focus Areas
+## Backend Focus Areas
 
 - **Scalable microservices** — Spring Boot + Spring Cloud, layered architecture, versioned APIs
 - **Event-driven systems** — Kafka producers/consumers, async processing, retries and idempotency
