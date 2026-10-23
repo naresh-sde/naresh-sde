@@ -83,21 +83,6 @@ I work on **event-driven, high-availability systems** and care about the parts u
 
 ---
 
-## GitHub at a Glance
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=naresh-sde&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-sde&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=naresh-sde&hide_border=true&theme=github-dark-blue" alt="GitHub streak">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naresh-sde&theme=github-compact&hide_border=true&area=true" alt="Activity graph">
-
-</div>
-
----
-
 ## Backend Focus Areas
 
 - **Scalable microservices** — Spring Boot + Spring Cloud, layered architecture, versioned APIs
